@@ -1,4 +1,4 @@
-# Crea el archivo README.md
+
 echo # 📝 ToDoList 2.0 > README.md
 echo. >> README.md
 echo Умное приложение для управления задачами на C# с Windows Forms (.NET 8). >> README.md
