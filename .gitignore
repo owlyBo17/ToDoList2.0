@@ -1,0 +1,9 @@
+bin/ 
+obj/ 
+.vs/ 
+*.user 
+*.suo 
+*.cache 
+*.vshost.* 
+packages/ 
+tasks.json   # El archivo de datos local
